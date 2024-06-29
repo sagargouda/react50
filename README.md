@@ -2,3 +2,4 @@
  
 1) counter
 2) Dynamic List of Items with Strikethrough
+3) Color Picker with Hex Code Display
