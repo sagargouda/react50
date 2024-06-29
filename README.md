@@ -1,3 +1,3 @@
- This Repo 50 most asked react puzzles 
+ This Repo has 50 most asked react puzzles 
  
 1) counter
