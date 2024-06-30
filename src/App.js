@@ -1,16 +1,9 @@
-// import Counter from "./components/counter/counter";
-// import Dynamic from "./components/dynamicList/dynamic";
-// import Color from "./components/colorpicker/color";
-
-import PasswordStrengthChecker from "./components/passwordStrength/password";
+import Counter from "./components/counter/counter";
 
 function App() {
   return (
   <div>
-    {/*<Counter/>*/}
-    {/*<Dynamic/>*/}
-    {/*<Color/>*/}
-    <PasswordStrengthChecker/>
+<Counter/>
   </div>
   );
 }
