@@ -1,9 +1,9 @@
-import Counter from "./components/counter/counter";
+import Accordian from "./components/accordian/Accordian";
 
 function App() {
   return (
   <div>
-<Counter/>
+  <Accordian/>
   </div>
   );
 }
